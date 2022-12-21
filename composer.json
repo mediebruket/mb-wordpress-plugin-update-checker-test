@@ -1,0 +1,25 @@
+{
+    "name": "mediebruket/mb-wordpress-plugin-update-checker-test",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Mediebruket\\Defaults\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Håvard Grimelid",
+            "email": "havard@grimelid.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://composer.mediebruket.no"
+        }
+    ],
+    "require": {
+        "php": "^7.4|^8.0",
+        "yahnis-elsts/plugin-update-checker": "^5.0"
+    }
+}
