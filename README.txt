@@ -13,5 +13,8 @@ More to come here.
 
 == Changelog ==
 
+= 1.0.1 =
+* Plugin update.
+
 = 1.0.0 =
 * Initial release for testing Plugin Update Checker.
