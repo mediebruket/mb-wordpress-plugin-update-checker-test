@@ -1,22 +1,22 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => NULL,
+        'reference' => '18cd7c0224047fbd60b1810a1ea7f01f65ac72de',
         'name' => 'mediebruket/mb-wordpress-plugin-update-checker-test',
         'dev' => true,
     ),
     'versions' => array(
         'mediebruket/mb-wordpress-plugin-update-checker-test' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => NULL,
+            'reference' => '18cd7c0224047fbd60b1810a1ea7f01f65ac72de',
             'dev_requirement' => false,
         ),
         'yahnis-elsts/plugin-update-checker' => array(
