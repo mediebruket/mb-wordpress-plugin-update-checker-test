@@ -3,7 +3,7 @@
  * Plugin Name:       Mediebruket Wordpress Plugin Update Checker Test
  * Plugin URI:        https://www.mediebruket.no
  * Description:       Plugin for testing Plugin Update Checker
- * Version:           1.0.1
+ * Version:           1.0.2
  * Author:            mediebruket
  * Author URI:        https://www.mediebruket.no
  * Text Domain:       mb-wordpress-plugin-update-checker-test

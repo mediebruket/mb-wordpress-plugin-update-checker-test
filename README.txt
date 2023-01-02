@@ -13,6 +13,9 @@ More to come here.
 
 == Changelog ==
 
+= 1.0.2 =
+* Another plugin update.
+
 = 1.0.1 =
 * Plugin update.
 
